@@ -14,23 +14,23 @@ const InfoBox=({text, link, btnText})=>(
 const renderContent = {
     1:(
         <h1 className='sm:text-l sm:leading-snug text-center neo-brutalism-blue py-4 px-8 text-white mx-5'>Hello, I am <span className='font-semibold'> Debolina </span><br/>
-        A tech student from India, West Bengal.</h1>
+        A passionate tech student from West Bengal, India.</h1>
     ),
     2:(
         <InfoBox
-        text='Currently in my 4rth year and accquiring software development skills'
+        text='I am currently in my 4rth year of college. I have a strong interest in web development, AI/ML and creative projects.'
         link='/about'
         btnText='Learn more'/>
     ),
     3:(
         <InfoBox
-        text='Currently in my 4rth year and accquiring software development skills'
-        link='/projects'
+        text='I am a fresher student with no formal work experience in companies, but I have worked on several projects.'
+        link='/about'
         btnText='Visit my portfolio'/>
     ),
     4:(
         <InfoBox
-        text='Currently in my 4rth year and accquiring software development skills'
+        text='Need a project done or looking for a dev?'
         link='/about'
         btnText='Contact me'/>
     )
