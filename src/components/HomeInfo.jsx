@@ -18,7 +18,7 @@ const renderContent = {
     ),
     2:(
         <InfoBox
-        text='I am currently in my 4rth year of college. I have a strong interest in web development, AI/ML and creative projects.'
+        text='I am currently in my 4th year of college. I have a strong interest in web development, AI/ML and creative projects.'
         link='/about'
         btnText='Learn more'/>
     ),

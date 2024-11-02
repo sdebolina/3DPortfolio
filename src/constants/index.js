@@ -134,7 +134,7 @@ export const experiences = [
         company_name: "WordWiz",
         icon: logo2,
         iconBg: "#fbc3bc",
-        date: "October 2022",
+        date: "October 2024",
         points: [
             "AI-Powered Content Generation: Leveraging the Gemini API, WordWiz generates high-quality, contextually relevant content tailored to user input.",
             "Seamless Authentication: Integrated with Clerk for secure and smooth user authentication, providing a personalized experience.",
@@ -149,7 +149,7 @@ export const experiences = [
         company_name: "My Portfolio",
         icon: portfolio,
         iconBg: "#b7e4c7",
-        date: "Jan 2022 - Jan 2023",
+        date: "Sept 2024 - Oct 2024",
         points: [
             "Immersive 3D Experience: Built with Three.js, the portfolio features dynamic 3D visuals that create an interactive and engaging user experience.",
             "Responsive and Adaptive Design: The 3D models and animations are optimized for different screen sizes, ensuring a seamless experience on both desktop and mobile devices.",
